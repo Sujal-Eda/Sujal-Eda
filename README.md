@@ -1,4 +1,4 @@
-# Sujal Eda
+# Sujal Shah
 
 AI/ML Engineer focused on building end-to-end machine learning systems, LLM applications, and MLOps pipelines.
 
