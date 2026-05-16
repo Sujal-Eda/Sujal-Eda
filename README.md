@@ -38,13 +38,6 @@ Time-series forecasting model for hotel revenue using booking patterns, seasonal
 
 ---
 
-## Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sujal-Eda&show_icons=true&theme=default&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sujal-Eda&layout=compact&theme=default&hide_border=true)
-
----
-
 ## Contact
 
 LinkedIn: www.linkedin.com/in/sujalshah-ml
