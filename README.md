@@ -47,5 +47,5 @@ Time-series forecasting model for hotel revenue using booking patterns, seasonal
 
 ## Contact
 
-LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
-Email: your@email.com
+LinkedIn: www.linkedin.com/in/sujalshah-ml
+Email: sujalshaheda@gmail.com
